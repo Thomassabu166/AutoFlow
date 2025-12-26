@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3b3401f4df9de6a8907c701a76ade68d8f56a100
 # ⚡ AutoFlow – Web Automation Platform
 
 AutoFlow is a modern web automation platform that connects a clean React-based user interface with powerful backend automation using **n8n**.  
