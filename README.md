@@ -41,16 +41,12 @@
     *   Maps the data fields.
 4.  **Action:** n8n automatically appends the formatted data into a **Google Sheet**.
 5.  **Response:** The system sends a success signal back to the UI to notify the user.
-
-```mermaid
 graph LR
 A[User Interface] -- POST Request --> B(n8n Webhook)
 B -- Process Data --> C{Automation Engine}
 C -- Append Row --> D[Google Sheets]
 C -- Success Response --> A
-📸 Screenshots
-(You can upload screenshots of your Login Page and Google Sheet here)
-💻 Installation & Setup
+ 💻 Installation & Setup
 Follow these steps to run the project locally.
 1. Clone the Repository
 code
