@@ -54,19 +54,18 @@ Copy code
 npm start
 The application will run at:
 
-📁 Project Structure
-nginx
+##📁 Project Structure
 Copy code
 AutoFlow
 ├── client   # React frontend
 └── server   # Backend / automation configs (if applicable)
 
 
-👨‍💻 Author
+##👨‍💻 Author
 Thomas Sabu
 Full Stack Developer
 
 
-🛡️ License
+##🛡️ License
 This project is licensed under the MIT License.
 
