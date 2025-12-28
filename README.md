@@ -12,7 +12,7 @@ Users submit basic data from a web form, which is then processed using n8n and s
 - Data is stored in Google Sheets
 - UI shows success or error feedback
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Frontend: React.js
 Styling: CSS / Tailwind CSS
 Automation: n8n
