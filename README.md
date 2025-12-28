@@ -13,11 +13,12 @@ Users submit basic data from a web form, which is then processed using n8n and s
 - UI shows success or error feedback
 
 🛠️ Tech Stack:
-Frontend: React.js
-Styling: CSS / Tailwind CSS
-Automation: n8n
-Data Storage: Google Sheets
-API Communication: REST (Axios)
+
+- Frontend:React.js
+- Styling: CSS / Tailwind CSS
+- Automation: n8n
+- Data Storage: Google Sheets
+- API Communication: REST (Axios)
 
 🧠 What I Learned
 - How webhook-based automation works
